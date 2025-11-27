@@ -336,6 +336,13 @@ body {
 }
 
 
+img, iframe {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+
  /*css reproductor de musica */
 
 :root{
